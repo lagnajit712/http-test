@@ -1,0 +1,19 @@
+{
+  "name": "http-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lagnajit",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "boxes": "^0.44.0",
+    "chalk": "^5.0.0",
+    "https": "^1.0.0",
+    "node-fetch": "^3.1.0",
+    "request": "^2.88.2"
+  }
+}
